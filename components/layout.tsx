@@ -1,6 +1,6 @@
 // components/layout.tsx
 import React, { useState, useEffect, useCallback } from 'react';
-import Sidebar from '@/components/ui/Sidebar'; // Now imports "Sidebar" with a capital "S"
+import Sidebar from '@/components/ui/Sidebar';
 import { Toaster } from "@/components/ui/toaster";
 import { cn } from '@/lib/utils';
 
